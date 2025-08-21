@@ -1,7 +1,7 @@
 ### **Air Quality Prediction and Classification App 🌍💨**
-
+😊
 This **interactive Python application** predicts the **Air Quality Index (AQI)** based on pollutant levels (**PM2.5**, **PM10**, **NO2**, **CO**) and weather conditions (**temperature**, **humidity**). Using state-of-the-art **machine learning models**, it classifies air quality as **safe** or **unsafe** and provides visual performance comparisons across different models.
-
+😊
 ---
 
 ### **💻 Models Used**
