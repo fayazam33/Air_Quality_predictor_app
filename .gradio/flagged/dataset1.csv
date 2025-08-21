@@ -1,0 +1,10 @@
+PM2.5 (µg/m³),PM10 (µg/m³),NO2 (µg/m³),CO (mg/m³),Temperature (°C),Humidity (%),Predictions,Model Comparison Plot,timestamp
+38,40,5,0.8,13.3,50,"'
+        <div style=""font-family: Arial, sans-serif; line-height: 1.6;"">
+            <h3 style=""color: #333;"">AQI Predictions</h3>
+            <p style=""color: red;"">Linear Regression AQI:<strong>150.36</strong></p>
+            <p style=""color: red;"">Polynomial Regression AQI: <strong>167.79</strong></p>
+            <p style=""color: green;"">Logistic Classification: <strong>Safe</strong></p>
+            <p style=""color: red;"">Random Forest Classification: Unsafe</strong></p>
+        </div>
+            ",.gradio\flagged\Model Comparison Plot\f2c54f9ad587792030dd\aqi_plot.png,2025-08-21 23:33:40.079523
